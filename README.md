@@ -1,4 +1,4 @@
-![Areeb Khan]<img src="https://raw.githubusercontent.com/AREEBKHAN123/Areeb-Khan/refs/heads/main/areebkhan.svg" />
+<img src="https://raw.githubusercontent.com/AREEBKHAN123/Areeb-Khan/refs/heads/main/areebkhan.svg" />
 
 ### About Me!
 ```python
@@ -49,6 +49,7 @@ me = Areeb()
 - [GitHub](https://github.com/areebkhan123)   
 - [Email](areebsam2@gmail.com)
 - [Whatsapp](https://wa.me/+923285666671)
+
 
 
 
