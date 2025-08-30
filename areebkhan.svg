@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 400" style="width:100%;height:auto;">
+  <!-- Animated stroke (line drawing effect) -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe Script, cursive" font-size="120"
+        fill="none" stroke="#1F61A5" stroke-width="3"
+        stroke-dasharray="2000" stroke-dashoffset="2000">
+    Welcome to Areeb's GitHub
+    <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="6s" fill="freeze" />
+  </text>
+
+  <!-- Solid fill appears after animation -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe Script, cursive" font-size="120"
+        fill="#1F61A5" opacity="0">
+    Welcome to Areeb's GitHub
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="6s" fill="freeze" />
+  </text>
+</svg>
