@@ -9,7 +9,7 @@ class Areeb:
             location: "Pakistan And Dubai",
             languages: "English, Urdu and Pashto",
             education: "Pre-Engineering OnGoing",
-            scores: "Avg. 90% Scores - Maths 96%",
+        
      }
      self_code=["HTML","CSS","JS","Python"]
      self_skills=["Web Security","FrontEnd","WordPress-CMS","Basic Graphics"]
@@ -36,19 +36,13 @@ me = Areeb()
   - SEO and Freelancing [View Certificates](https://drive.google.com/drive/folders/1pRQpWboU26HV81vxmbaZ6NmwHS46Jqko?usp=sharing)
 
 
-## 🚀 Future Goals
-
-- Pursue higher studies in **Artificial Intelligence**.  
-- Contribute to **AI-driven solutions** for real-world problems in education, transport, and automation.  
-- Gain expertise in **Machine Learning, Computer Vision, and Natural Language Processing (NLP)**.   
-- Launch my own **EdTech or AI-based startup And AI-Based Schools at own Country to empower youth with many skills to stand out in the world** in the future.  
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/areebkhan123/)  
 - [GitHub](https://github.com/areebkhan123)   
 - [Email](areebsam2@gmail.com)
 - [Whatsapp](https://wa.me/+923285666671)
+
 
 
 
