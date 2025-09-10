@@ -6,7 +6,7 @@ class Areeb:
     def __init__(self):
      self.info = {
             name: "Areeb Khan",
-            location: "Pakistan And Dubai",
+            location: "Pakistan And UAE",
             languages: "English, Urdu and Pashto",
             education: "Pre-Engineering OnGoing",
         
@@ -42,6 +42,7 @@ me = Areeb()
 - [GitHub](https://github.com/areebkhan123)   
 - [Email](areebsam2@gmail.com)
 - [Whatsapp](https://wa.me/+923285666671)
+
 
 
 
